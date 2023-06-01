@@ -60,7 +60,7 @@ h1, h2, h3, h4, p {
 }
 
 #first-gift:hover {
-    background-image: url("happy.gif");
+    background-image: url("cheers.gif");
 }
 
 #second-gift:hover {
@@ -80,7 +80,7 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-cheers:hover {
-    background-image: url("cheers.gif");    
+    background-image: url("happy.gif");    
 }
 
 .footer {
